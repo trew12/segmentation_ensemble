@@ -1,0 +1,4 @@
+name: 'nickmuchi/segformer-b4-finetuned-segments-sidewalk'
+short_name: 'segformer'
+queries: False
+dataset: 'sidewalks'

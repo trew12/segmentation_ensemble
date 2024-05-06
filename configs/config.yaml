@@ -1,0 +1,8 @@
+defaults:
+  - model: yolov8
+
+device: 'cuda'
+img_dir: "E:/datasets/task/dataset/imgs/"
+mask_dir: "E:/datasets/task/dataset/gt_sem_seg/"
+batch_size: 16
+img_size: 640

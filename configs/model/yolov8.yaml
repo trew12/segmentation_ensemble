@@ -1,0 +1,4 @@
+name: 'yolov8m-seg.pt'
+short_name: 'yolov8'
+queries: False
+dataset: 'coco'

@@ -1,0 +1,4 @@
+name: 'facebook/mask2former-swin-tiny-ade-semantic'
+short_name: 'mask2former'
+queries: True
+dataset: 'ade20k'
